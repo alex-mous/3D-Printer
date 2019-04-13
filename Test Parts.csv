@@ -1,0 +1,40 @@
+Test Parts
+"used for testing dimensions, concepts and alignments",
+Version Number of part being tested,Part Name
+1.0,9.20mm Test Aluminum Bushing
+1.0,9.30mm Test Aluminum Bushing
+1.0,9.40mm Test Aluminum Bushing
+1.0,9.50mm Test Aluminum Bushin
+1.0,9.60mm Test Aluminum Bushing
+1.0,9.525mm Aluminum Clamp Test Style 3
+1.0,9.525mm Aluminum Clamp Test Style 4
+5.0,12mm Steel Rod Clamp Test
+6.0,12mm Steel Rod Clamp Test
+1.0,12mm Steel Rod Test Clip
+1.0,Annealing Test part 1
+1.0,Annealing Test part 2
+1.0,Annealing Test part 3
+1.1,Annealing Test part 1
+1.1,Annealing Test part 2
+1.1,Annealing Test part 3
+1.0,Belt Idler Test
+2.0,Belt Idler Test
+3.0,Belt Idler Test
+2.0,Bushing Holder Test
+2.1,Bushing Holder Test
+2.2,Bushing Holder Test
+4.0,Bushing Holder Test
+4.1,Bushing Holder Test
+4.2,Bushing Holder Test
+1.0,Filament Runout Sensor Clip Test
+1.0,GT2 Clamp Test
+1.0,Hotend Carriage Test Hotend Clamp
+4.0,Hotend Carriage Test for Bearing Clamp
+2.0,Hotend Clamp Test
+2.1,Hotend Clamp Test
+1.0,PVC Pipe Joiner Test
+1.0,Test Part for Fan Mount
+1.0,Test Part for Fan Vent
+1.0,XY Joiner Test
+2.0,XY Joiner Bottom Test
+2.0,XY Joiner Left and Right Test

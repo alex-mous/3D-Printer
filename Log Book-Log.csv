@@ -1,0 +1,148 @@
+Log
+Day,Date,Hours,Mins,Description
+1,07/08/18,6,40,Research 3D printer modifications.
+2,08/08/18,3,51,Research 3D printer modifications.
+3,10/08/18,7,1,Research parts for 3D printer modification.
+4,11/08/18,5,50,"Research stepper motors, stepper motor drivers and controller boards for new 3D printer."
+5,12/08/18,4,3,Research parts for new 3D printer.
+6,13/08/18,1,4,Work on 3D printer design.
+7,14/08/18,4,35,"Research extruder and hotend for new 3D printer, decide on clone for now."
+8,15/08/18,5,35,Work on 3D printer design.
+9,16/08/18,6,27,"Research parts for 3D printer, finalize extruder and hotend, find ethernet cable (idea from Tom’s 3D) and 10AWG for heat bed, also find silicone heat bed."
+10,17/08/18,5,13,"Research 3D printer parts, find cheaper alternatives."
+11,18/08/18,0,3,Research parts for 3D printer.
+12,19/08/18,1,23,Research 3D printer parts.
+13,20/08/18,6,8,3D printer part research.
+14,21/08/18,4,41,"Work on 3D printer design, shrink OD to 50cm^3 and decide to use CoreXY."
+15,22/08/18,3,27,Research parts for new 3D printer.
+16,23/08/18,5,10,"Research 3D printer parts, work on bed design."
+17,24/08/18,6,14,"Work on 3D printer design, bed platform and drilling options."
+18,25/08/18,7,20,"Work on 3D printer bed design, using socket screws in bottom of bed by tapping holes."
+19,26/08/18,4,31,"Work on 3D printer design, find dampening feet and finalize bed mounting method and size (33cmx33cmx3/8in)"
+20,27/08/18,3,56,"3D printer design, work on final parts list."
+21,28/08/18,5,14,"work on 3D printer design, finalize parts list 1."
+22,29/08/18,0,31,Work on 3D printer design.
+23,30/08/18,4,52,"Work on 3D printer design, order parts list 1."
+24,04/09/18,11,36,Work on 3D printer design.
+25,07/09/18,5,36,"Research metal forging, start designing timer, 3D printer parts arrive."
+26,21/09/18,5,53,3D print washers for M6 bolts(3D printer build).
+27,22/09/18,7,9," assemble frame and bed frame, assemble lack tables, design brackets to mount tables, make sure assembled frame is square."
+28,23/09/18,8,29,Work on 3D printer design: design and 3D printer caster attachment and redesign(V2) table mounting and reinforcement bracket.
+29,24/09/18,5,42,"Print three more mounting brackets and attach, also print two more caster adapters and attach, design and implement caster spring to auto level tables, attach 3D printer to tables via l-brackets and anti-vibration padding."
+30,25/09/18,2,15,"Work on 3D printer, try to print ABS with current printer."
+31,26/09/18,0,48,fix old 3D printer by cutting new head onto screw and clearing nozzle.
+32,27/09/18,4,32,"dry out ABS and print brackets, several fail > adjust settings > several good."
+33,28/09/18,6,53,"print final two support/mounting brackets (though both cracked on install), designed and printer clamp for 12mm steel rods. Buy more filament(HTPLA from MakerGeeks). Research annealing HTPLA."
+34,29/09/18,1,7,refine current 3D printer's ABS profile.
+35,30/09/18,1,13,Work on 3D printer.
+35,30/09/18,4,34,"Work on 3D printer, test previously printed clamp by pounding with rock-splitting hammer-very stiff, also try to fine tune and calibrate current 3D printer."
+36,01/10/18,5,2,"Work on 3D printer, redesign 12mm rod clamp and tune in printer for petg."
+37,02/10/18,2,54, print 3 more brackets and work on XY drive system.
+38,03/10/18,0,56,start design for idler bearing for GT2 Belt.
+39,04/10/18,2,58,print test of idler mount.
+40,05/10/18,5,0,revise idler part and finish extra insulate enclosure.
+41,06/10/18,6,20,adjust model twice again and print.
+42,07/10/18,7,40,"combine idler and 12mm rod mounts and design motor and 12mm rod mount, print 1 of the motor and rod mounts."
+43,08/10/18,4,48,"edit motor mount design to add larger tolerance after test print snapped, also added strengthening and ventilation; also printed test for idler and 12mm rod clamp mount and then edited design to move M6 mounting hole to better location, printed final."
+44,09/10/18,5,15,print other idler mount(for the left side).
+45,10/10/18,3,33,print motor mount.
+46,11/10/18,3,21,succeed at printing motor mount.
+47,12/10/18,4,47,"try to print right motor mount, fails at 7hrs in due to communication timeout error."
+48,21/10/18,2,32,Organise papers
+49,22/10/18,4,46,"Work on new 3D printer print right motor mount, start designing XY joiner."
+50,23/10/18,6,9,"finish designing test part for XY Joiner, print that part, analyze: need to lower bearing and posts need adjusting so GT2 Belt does not rub against the plastic. Adding design changes tomorrow."
+51,24/10/18,0,45,continue designing XY joiner.
+52,25/10/18,4,39,"continue designing XY joiner, research microswitches."
+53,26/10/18,2,59,print 2 test parts for XY joiner(3/8 in clamp and LM12LUU clamp) revise 3/8 clamp and retest(too large hole).
+54,27/10/18,5,15,"print test prints for XY joiner; decide on redesign of LM12LUU clamp part after four(two yesterday, two today) test prints, research rotary tool add-on for print later in build."
+55,28/10/18,3,48,"finish part(after last test today), printing 1 of the final 2 parts."
+56,29/10/18,4,6,"print second XY Joiner, discover problem with tension belt after cutting aluminum tubes and fitting to printer, problem is triangles formed as belt moves from motor through the idlers change in size making belt too tight and too loose depending on where on the axis it is, therefore start redesign without any triangles."
+57,30/10/18,4,13,redesign V2 XY Joiner and print test model.
+58,31/10/18,1,23,start XY Joiner V2.1 after test last night on the test part: discovered need larger hole to insert idler bearing and also needed to be lower about 5mm.
+59,01/11/18,1,35,"print test for XY Joiner, works, printing final tomorrow, design test for aluminum bushing fit. Work on PCB."
+60,02/11/18,5,19,"print two finals of XY Joiner, only one successful, try to splice unsuccessful one but fail, research parts list 2."
+61,03/11/18,5,40,research parts.
+62,10/11/18,2,55,Work on 3D printer parts list 2.
+63,11/11/18,4,37,Work on 3D printer parts list 2.
+64,12/11/18,4,32,Work on 3D printer parts list 2.
+65,13/11/18,4,47,Work on 3D printer parts list 2.
+66,14/11/18,4,37,"Work on 3D printer parts list 2 (finished and printed), design new ventilation fan (for current printer) and insulation for it."
+67,15/11/18,2,45," print second XY Joiner successfully, and post process it."
+68,16/11/18,4,55,Work on 3D printer parts list: order about half of the parts. Design Z-axis 10mm rod clamp and print front-right one.
+69,17/11/18,9,30,"print two more revisions of clamp, both fail."
+70,15/12/18,5,4," run test on annealing regular PLA: the two samples put into boiling water a) warped and b) showed no signs of improved heat resistance over the control sample (when put in 70C water) (all samples printed with 90C heated bed, so that may have already annealed them). Also printed another Z rod clamp (this time with HatchBox Blue PLA). Started designing the Z rods and platform interface."
+71,16/12/18,6,49," print two z rod clamps, design z LM10LUU clamp, start designing z motor mount."
+72,17/12/18,0,31, print last three z rod clamps.
+73,25/12/18,6,40, receive new parts and test the electronic parts. Build the extruder (no instructions included); have to modify to make the parts fit & work (enlarge hole in free-wheeling bearing). Also design switch holder and prepare for printing tomorrow.
+74,26/12/18,6,25," print switch case and lcd case, install switch into switch case and solder wires to switch, install switch case, run wires through drilled holes in tables and install power supply; problem with power supply: unstable voltage, but fixed when noticed 110/220 select switch was broken. Send messages to AliExpress packages that have not arrived (3 total, although 1 arrived today)."
+75,27/12/18,3,19," test V1 case: doesn't fit, design V2, print, still doesn't fit, design wire clamp, install Arduino + ramps and SSR onto table and wire."
+76,28/12/18,5,48," design and print wire clamps, install 6 out of 11; design V3 LCD Case, print, doesn't fit well but modify and install; design PVC pipe clamp and print test part; create drawing of all past and present designs."
+77,29/12/18,6,51," install more wire clips, design PVC pipe clamp and joiner, print 4 of the clamps and a test part for the joiner."
+78,30/12/18,4,59, print three PVC pipe joiners.
+79,31/12/18,5,30," new filament arrived (HatchBox blue PLA from Amazon), print Acrylic quick release clamp (designed yesterday), test: not strong enough clamp so start editing, print last PVC pipe joiner.."
+80,01/01/19,6,3," design V2 and V3 of quick-release clamp, print one of V2 and four V3. Also design acrylic panel clamp V1, V1.1 and V1.2, print one V1.1 and four V1.2; installed weatherstripping of printer (seals)."
+81,02/01/19,2,29, design V2 of acrylic clamp and print four; install fan for motors (with zip ties).
+82,03/01/19,8,20,Work on new 3D printer. Design Acrylic Clamp V2.2: correct clearance with wing nut and increase clamping range; and then V2.3: decrease range and increase wing nut fillet; finally V2.4: increase range higher than first and increase wing nut range. Design toggle clamp for quick-release (idea from internet)
+83,04/01/19,6,49, print V1 toggle clamp; thin plastic rods break so redesign in V2 for metal M3 bolts (25mm set screws and 30mm bolts); V2.1 to increase clamping distance.
+84,05/01/19,8,19," design V3 of toggle clamp to increase base length and change lever to be adjustable height, however print failed due to layer shift from catching on misprinted parts; trying again tomorrow. Cut shims from 100x100mm acrylic sheet and solvent welded them to the acrylic hinges. Drilled two holes for the screws (starting with 5/64 and increasing to 5/32). Then solvent welded the hinges to both of the acrylic panels and also welded on the knobs."
+85,06/01/19,2,34, try printing smaller batch of toggle clamps: first try fails due to power dip; make prints smaller (less parts per print) and try again.
+85,06/01/19,4,13, try several more time to print parts: fail three times due to un level bed; several fully successful prints done. Designed bushing holder for aluminum rods on x axis.
+86,07/01/19,4,35," print several test parts for Bushing Holder; printing a final part (V2.2) and will measure tomorrow. Finished the lower half of the 3D printer: (the filament and electronics section covered by acrylic) installed the toggle clamps for the acrylic panels (yesterday installed acrylic panel and day before created panel (panel include hinges and knob). Also assembled 9 out of the 10 total toggle clamps used today. When installing toggle clamps, three were not attaching properly (not fully down onto wood surface), so hot glue was added and fixed the problem."
+87,08/01/19,0,56, try several bushing holder designs: however none work and have to cut out of bushing.
+88,09/01/19,4,8, start design of X axis hotend carriage. Include advice on Bushing Holder and on drilling aluminum from Pi Club. Research drill press and 2.5mm drill bits for drilling aluminum.
+89,11/01/19,3,19,Research drill press and drill bits. Make some small changes to Hotend Carriage for new 3D printer.
+90,12/01/19,5,29,order drill press (Wen 4208) and drill bit set (Makita Metric).
+91,14/01/19,3,40,Work on assembling new drill press (WEN 4208). Test with new drill bits and notice chuck wobble (jaws not straight). Contacting WEN customer service tonight via email.
+92,15/01/19,0,8,No response from WEN.
+92,15/01/19,3,12," install remaining pieces of seal on the front and back panels (need to order more for sides), after noticing that silica gel turned green/blue from moisture over several days."
+93,21/01/19,3,35,"Work on coins and new 3D printer: go to Eastside Saw to try to repair/reduce chuck wobble in WEN 4208 drill press but fail and now starting return process. Also design V4 of toggle clamp handle after V3 had weak point and snapped (near the screw, plastic was very thin). Printing V4 this evening and possibly more tomorrow if test succeeds."
+94,22/01/19,2,23, design V4.2 of handle after testing V4.1 (Too large and scraped against acrylic panel). Printed all ten required handles and installing last 6 of them tomorrow.
+95,23/01/19,2,20," continue design of hotend carriage, print test part for hotend clamp (works) and test parts for bearing mounts( find 13.40mm printing size is a good loose/slide fit)."
+96,24/01/19,3,16,"SD card menu on old printer very slow, so reformat with FAT32, alloc. 4096b; also try printing bushing holder (V4.2), but fail twice due to elephant foot; resolve by turning off bed and raising printhead above bed; then successfully print 5 bushing holders, and use super"" type glue to glue the bushings in after sanding down both the bushing and the holder. Also print Parts 1 and 2 of hotend carriage."""
+97,25/01/19,3,20," after trying to improve design of carriage, decide to redesign XY Joiner; V3 has now been designed of the XY Joiner. Also, the silica gel was blue, so the microwave was used to dry it out (~4 mins per pack, 3 packs). Now the silica is in two jam jars for easy use and drying."
+98,26/01/19,6,4," design V2 of extruder carriage and V3 of XY Joiner. During design of carriage V2, create three test parts: GT2 belt clip, and V1 and V2 of hotend clip. Printed the carriage. Also design Z Motor mount and prepare XY Joiners for printing tomorrow."
+99,27/01/19,9,3, print both XY Joiners and install one. Make business card for coin business Everlasting Coins. Repair vent hood fan. Work on wiring for hotend carriage.
+100,28/01/19,5,0," print z motor mount and install motor. After testing motor, realize that shaft is bent and bearing is grating, so contacting seller to send new motor this evening. Also removed support from XY Joiner number 2, install it onto rod and add GT2 belts to printer. Then do test wiring and further configure Marlin for the bed travel size (268x268mm) and end stops. Try searching for drill press."
+101,29/01/19,4,13," design and print end stop mount for aluminum rod, 12mm steel and 10mm steel"
+102,31/01/19,4,20, print end stop mount V3.1. Send message to AliExpress seller Lin Chris to send thermistors again. Also take video and then create GIF of Z Motor wobble and grating and send the GIF to AliExpress seller Nicole Ou for another motor.
+102,31/01/19,2,12, update XY Joiner to V3.1 to make rod clamp work and also add screw holes to second rod clamp; design and print V3.4 of End stop but 10 and 12mm versions have error (multiple bodies overlapping) and correct in V3.5. Now printed all 6 end stop mounts.
+103,02/02/19,4,5," take apart old hotend carriage and start designing new one (with end stop mounts and better belt clamp), also design new XY Joiner to go along with it and correct errors (no holes for m3 screw and also maybe too high up for the print bed, so only adjusting and printing after bed design completed). also slice Z bearing clamp."
+103,02/02/19,1,32," continue designing V3 carriage (add slot for end stops switches), also print V1 Z bearing clamp. Find design issue with bearing clamp (actual clamping part too large) and design V2."
+104,03/02/19,3,54," design V2 of Z bearing clamp part 2, design Z lead screw restraint, design z lead screw nut mount. Print 4 V2 bearing clamps."
+105,04/02/19,2,21," design V2 of Z rod bearing clamp (make stronger, only printing two for the side with the drive lead screw), design because noticed that cannot lift with just one side because too flexible and bends."
+106,05/02/19,2,58," design extruder mount v1, measure distance from 12mm rods to bed with cardboard, start V3.3 of XY joiner."
+107,06/02/19,5,54, nearly complete design V3 of hotend carriage.
+108,07/02/19,0,46, new filament arrives and print Z restraint and bearing mount for Z
+109,08/02/19,3,58," print two Z bearing clamps and test, test lead screw nut clamp and design V1.1 because too far out (also add extra feature to fill in nut space on lead screw nut."
+110,09/02/19,5,1," cleanup and fix extruder to extruder mount and also to printer (added nuts and cleaned edges), also start V4 of extruder carriage after discovering need for fan for prints also (now also changing XY Joiner so rods on top of each other as opposed to next to each other). Also add bearing mount V1.1 and discover Z bed not straight. Bed bends down towards side without Z lead screw. Try to remedy by adding plates to the bottom of the bed, but only fixes slightly. Research more motors (another already requested because this one is bent and grates) and decide to use both. Try printing V3 of Z Bearing Clamp, which has a cross brace form the bottom, but find holes not quite aligned properly, so design V3.1 and printing tomorrow (marked as Z rods to bed plate connector in designs). Also print test part for extruder carriage, and testing tomorrow."
+111,10/02/19,4,53," test hotend carriage test part and works (screw to adjust spacing of bushings), print V3.1 of z rods to bed connector (aka bearing clamp). Decide to redesign whole X and Y axes because fan won't fit on carriage and axis movement already severely limited, so design new motor mount (V1 and then up to V1.3 correcting small errors without printing) and also design idler bearing mount (still V1). Print z bed plate to rods connector and attach, analyzing effect tomorrow but on first glance seems to lessen sag. Also start out designing 12mm rod clamp for V2 X and Y axes."
+112,11/02/19,3,50," print motor mount V1.3 and find holes too close together so update and print again in V1.4, next print and find holes still not good so design V1.5 for tomorrow; also try another method for the bed: move the outer parts in and ad two more 90-degree brackets and now also allows to add to top plates; this method seems to work well and hardly warps/flexes/bends/distorts at all (but testing over next few days to see if sags. Also design V2  of steel rod clamp for V2 x and y axes, printing tomorrow also designed XY joiner."
+113,12/02/19,4,2," print one of V1.1 bearing mount, subsequently design V1.2 because idler bearing don't fit, straightened Z axes by locking calipers @ 110mm and adjusting mount for 10mm rods. Edited/picked out bad pictures."
+114,13/02/19,0,47,Work on V2.2 type 2 of 12mm rod clamp for V2 X and Y axes. Also print latest idler bearing mount
+114,13/02/19,0,1,Also design V2.3 of rod clamp
+115,14/02/19,1,53, test idler bearing mount V1.2 printed yesterday and find it works. Print and test V2.3 of type 1 and 2 of 12mm rod clamps (type 1 works but lower M6 hole in type 2 not aligned properly so design V2.4 of type 2 and print and test and seems to work well.
+116,15/02/19,3,52," Nicole Ou asks me to pay $3 for shipping, paid, and hopefully shipping soon. Lin Chris gave tracking number. Print another motor mount and another idler mount and cleanup and install. Also print another V2.3 of 12mm clamp type 1 and printing another type 2 V2.4 tomorrow. Tested XY joiner and found placement of inner divider not ideal, bearing clamp too tight and not enough space to put in idler bearing so designed V1.4 and then V1.5."
+116,15/02/19,0,53,Print of 12mm clamp fails due to not sticking to bed.
+117,16/02/19,6,42,"Work on new 3D printer: finish designing Hotend Carriage, design Fan mount on carriage; design fan vent to direct fan air and also test part; cleanup printer after two failed print yesterday (plastic all over hotend), and also do some routine maintenance on old printer (tightening bolts, fixing hotend to extruder, checking electronics, etc.); printed one XY joiner V1.5 and one 12mm rod clamp V2.3 type 1 and one V2.4 type 2 12mm rod clamp; also prepare bed for drilling and tapping by marking holes and unwrapping plastic and fetching WD40 and center-punching holes."
+118,17/02/19,7,18," try to print second XY Joiner V1.5 but fails due to printer falling of of cabinet from unknown causes. Destroyed 3D printer so research options, (find places to print broken X axis support 3D printed part and also find new frame on eBay for $22.00) but decide to try to repair. So glue back together printed part with strong glue (maybe super glue?) and then solvent weld broken acrylic pieces together again. Also work on wiring for new printer: drilll alot of holes through lack table next to each other to fit all the wires. Also use spare 4-core wire from weather station to wire two enstops together on printer (using common + and gnd and two sig. wires)."
+119,18/02/19,6,24," finish fixing old 3D printer and print XY Joiner V1.5, also assemble table from garage and put printer on it clamped in with blocks of wood, notice slight grating in rods but probably not new or important; wire most of new 3D printer: add 3rd endstop to the two wired yesterday and also wire bed in and also wire hotend fan and then test endstops. Also print print cooling fan (hotend fan) vent/air director and test: it works but just pointing air in wrong direction."
+120,19/02/19,5,30," print V1.1 hotend mount plate, after tightening notice cracks and subsequently design V2 with new clamping style (two-part clamp), print V2 and test.  Also design and print V1.2 of Fan Vent after noticing points air in wrong direction during testing of V1.1 this morning. Change firmware to setup heat bed controll and the test heat bed (works well when heated to 40 C with thermistor taped to mat as test) Wire hotend: wrap wire-wrap from old 3D printer to bundle wires together, also design clamp for wires on frame/anchor and print, then design V2 after noticing M3 holes not included in design and also print."
+121,20/02/19,5,10,"Work on new 3d printer: finish wiring printer: wire hotend heater and hotend cooling fan  (to 12V AUX pins) and print cooling fan and hotend thermistor. Also install wire cable mount for hotend wires and wrap remainging wire wrap around wires from bed. Install PTFE tube into pneunatic coupler and then dril 4mm hole through top Lack table followed by 8 mm hole through very top of table for coupler to mount in, then screw in coupler and test by exctruding filament upto hotend. Also test hotend fan and print cooling fan and hotend upto 50C and bed upto 50C."
+122,21/02/19,5,5,"New filament arrives; print X axis carriage, test and find only problem is adjustable bearing, so start modifying design. Also go to Dan's house to use Delta 12 inch drill press and drill holes in aluminum plate with WD40 and 2.5mm and 2mm drill bits."
+123,22/02/19,4,33,"Tap holes in aluminum bed with M3 plug tap; then install thermistor and silicone heater mat; next screw in set screws, add nuts to lock tohe screws in, and put knurled nut on bottom to temporarily support; also print V2 of carriage -seems to work well; next heat up bed to test: works; also heat up hotend and try to extrude but fail, try several hours but conclude probably heat creep of not heating up porperley (try oiling and also changing thermistor setting in marlin and reading with multimeter."
+124,23/02/19,5,2,"Order new hotend from Gulfcoast Robotics on Amazon, should be arriving today.Copy all drawings and misc. files, punch holes and bind and then black out name. Install nuts and screws into carriage v2.0 and also tidy and organise fastners."
+125,24/02/19,6,10,"Install new hotend and test: works first but clogs on pulling out filament; fix and then clog again by same problem; then fix and stop pulling out filament and find works very well; saw al. rods to right length and install; add belts and tighten; print Z axis V4 endstop mount but use for X axis; level bed using screws and paper; axes not homing properly so after reversing in firmware and hardware and also rteversing endstops works; do first print. After four tries, (first Z steps/mm off, second and third bowden tube popped out of extruder and needed remounting) finally fourth try worked. Noticed signicant ringing in one axis and not much in the other"
+126,25/02/19,5,12,"Print another test cube and change accel. settings  (lower in y axis because of ringing and raise in x) then print another. Figure out ringing in y is because of lack of tolerance in bushings on x axis. Also decide include z raise and lower screw, so create V5 and 5.1 of endstop mount and also Z adjustable screw V1 and V1.1. Then print V5.1 endstop and V1 adj. screw on new 3d printer (come out very well) and then print filler piece to fill 6.2mm hole to 2.5mm for 15mm in adj. screw mount. Instal and endstop notice on wrong side so correcting tommorrow"
+127,26/02/19,3,23,"Created custom bed levelling sequence script and added to marlin in configurtation_adv.h. also change other settings to fine tune. Design three way test for dimensional accuracy printing tommorrow. Update firmware to change to 290mm on X, 272mm on Y and 298mm on Z. Reflected Z axis endstop mount and print and then install with adjustable screw. Now can easily raise and lower total bed. Research bushings out of bronze to replacve igus bushings after noticing ringing caused by not good tolerance, research on Mcmaster-carr and amazon for 3/8."
+128,27/02/19,4,31,Create code for filament runout sensor. order bronze sleeve bearings/bushings and print more of V4.2 bushing holders for them. New bushings arrive and seem to have better tolerance than IGUS.
+129,28/02/19,3,28,"Design filament runout sensor clip. Design bushing holder for bronze bushings (V5.0) with ID of 13.0mm and print. Then after does not fit design V5.1 with ID of 13.3mm on design software. Then press fit with panavise 201. Compare to IGUS and have less slop. Install on printer and add light motor oil and works. Next work on endstop mount for X axis. Print rotated clamp version and seems to work except that endstop wrong way around relative to rod, so redesign and reprint and then works.  Printed 3D Benchy"
+130,01/03/19,5,32,Design new fan vent for better cooling of prints. Work on testing: create GCODE for speed test (for ringing and accuracy) from 30 to 80 in 10mm/s steps. Also analyze Bency printed on new printer last night at 40mm/s average: seems pretty good with some minor surface imperfections and alot of stringing (easy to remove) from the very low retraction settings. Also priont bency on anet a8 and noticably worse with more ringing and more wobbly in all axes.
+131,02/03/19,6,35,"Print V2 of filament runout sensor (designed yesterday evening) and test: find same issues (sensor off-center, etc.), so design V3 and print, test V3 and find all better except endstop will not fit completely in so design V4 and print and install (also glued swith to endstop to prevent movement and drilled holes because creating thread was very difficult). Print all speed vs ringing and accuracy test cubes for new printer (old printer done yesterday). Design paper basket: V1 would take more than one day and half a kg of filament to print so make thinner and reduce to 1/4kg and 20hrs, next make print base smaller and increase acceleration on printer and finally 12hrs ready to print on monday. Now printer in officially finished."
+132,04/03/19,1,38,Print basket torture test on printer: many bad starts possibly due to to high travel velocity and also un level bed but add Z hop and lower travel speed and level bed and finally works.
+133,05/03/19,5,38,Print basket torture test on printer: many bad starts possibly due to to high travel velocity and also un level bed but add Z hop and lower travel speed and level bed and finally works.
+134,06/03/19,2,19,Clean up print of paper basket (remove stringing). Prepare another smaller basket for Anet A8 tomorrow using same profile.
+135,07/03/19,0,25,"Print basket for Anet A8: fails several times due to bed sticking issues, but finally succeeds, stringing on this one alot smaller (ore like threads)."
+136,08/03/19,6,50,"Start full model of printer in F360, decide print different cubes, calibrate steps/mm of extrdr, X, Y, Z, print new 25mm hollow cube test on both printers from speeds from 30-80 with 10mm/s steps, compare and analyze and fill in results."
+137,09/03/19,4,29,New Z motor arrives; print another lead screw restraint and nut mount and find motor will not fit with belts. Design new version of hotend carriage to address ringing and print; also design motor mount for 2nd Z motor before finding won't work.
+138,10/03/19,4,37,Print hotend plate; design hotend plate top and also print; assemble parts to make hotend carriage; take apart print and disassemble old hotend carriage; add hotend and fans to new hotend carriage just printed (V3.0)  and assemble; install on printer and works perfectly; level bed and find new dimensions of printer are 307x231x334mm (XxYxZ). Print 80mm/s test cube and find ringing significantly decreased (less than 1/3 of day before yesterday (8-Mar-19) prints). Print another cube at 2500 (2x) accel and find only slightly more ringing so try again at 4000mm/s/s.
+139,11/03/19,1,19,Print series of 25mm calibration cubes on new printer (same gcode as on Anet A8 and V2 Hotend Carriage). Analyze; find ringing and smoothness much better than V2 Carriage; add to project board. Print 3D benchy with V3 of carriage.
