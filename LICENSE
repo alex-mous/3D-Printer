@@ -1,6 +1,6 @@
 Attribution-ShareAlike 4.0 International
 
-Note: the Marlin configuration files (Configuration.h, Configuration_adv.h, pins_RAMPS.h, ultralcd.cpp) are licensed differently. For those files, see the LICENSE in the Marlin Configuration directory.
+Note: the Marlin configuration files (Configuration.h, Configuration_adv.h, pins_RAMPS.h, ultralcd.cpp) are licensed differently. <br> For those files, see the LICENSE in the Marlin Configuration directory.
 
 =======================================================================
 
@@ -412,7 +412,7 @@ Section 8 -- Interpretation.
 Creative Commons is not a party to its public
 licenses. Notwithstanding, Creative Commons may elect to apply one of
 its public licenses to material it publishes and in those instances
-will be considered the “Licensor.” The text of the Creative Commons
+will be considered the Â“Licensor.Â” The text of the Creative Commons
 public licenses is dedicated to the public domain under the CC0 Public
 Domain Dedication. Except for the limited purpose of indicating that
 material is shared under a Creative Commons public license or as
