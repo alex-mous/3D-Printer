@@ -22,7 +22,7 @@ Note: some designs may need small modifications after printing such as enlarging
 
 
 <h3> Software </h3>
-I recommend using Ultimaker Cura for slicing. Cura can be installed from ultimaker.com/en/products/ultimaker-cura-software. A sample profile is the main directory. Follow the instructions detailed at ultimaker.com/en/resources/20441-manage-profiles to load the profile. To perform one of the test prints: load the test cube from the STL files folder into Cura, slice the cube, and put the GCODE on an SD card. Insert the SD card into the 3D printers LCD sreen controller board and select the file from the menu.
+I recommend using Ultimaker Cura for slicing. Cura can be installed from <a href="ultimaker.com/en/products/ultimaker-cura-software">the Ultimaker website</a>. A sample profile is the main directory. Follow the instructions detailed at <a href="ultimaker.com/en/resources/20441-manage-profiles">the Ultimaker website</a> to load the profile. To perform one of the test prints: load the test cube from the STL files folder into Cura, slice the cube, and put the GCODE on an SD card. Insert the SD card into the 3D printers LCD sreen controller board and select the file from the menu.
 
 <h3> License and Credits </h3>
 All work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International license, except for the Marlin configuration files. Note: the Marlin configuration files (Configuration.h, Configuration_adv.h, pins_RAMPS.h, ultralcd.cpp) are licensed differently. For those files, see the LICENSE in the Marlin Configuration directory. This design was inspired by Tech2C's Hypercube, but all of the parts were designed by me from scratch.
