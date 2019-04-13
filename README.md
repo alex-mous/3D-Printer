@@ -25,6 +25,39 @@ The goal of this project is to design and build and improved, easy to run, budge
 • Sturdy frame and design <br>
 • Powerful heat bed capable of quickly heating to more than 110℃ <br>
 
+<h4> Test Plan </h4>
+The following tests were printed on both the Anet A8 and the new printer. The test prints were
+then compared and analyzed. <br>
+1. Calibration cubes (25x25x25mm) at print speeds from 30-80mm/s in 10mm/s steps with an
+acceleration of 1250mm/s2 testing for: <br>
+&nbsp&nbsp&nbsp&nbspa. Ringing <br>
+&nbsp&nbsp&nbsp&nbspb. Surface quality <br>
+&nbsp&nbsp&nbsp&nbspc. Tolerance <br>
+2. #3DBenchys to test the ability to print difficult features (such as overhangs, bridges, complex
+rounded shapes, etc.) <br>
+3. Paper Basket Torture Tests to verify the maximum practical print volumes and identify any
+additional common printing issues  <br>
+
+
+<h4> Results/Conclusion </h4>
+<table>
+  <tr> <th>Critera and Constraints</th> <th>Result</th> </tr>
+  <tr> <td>Parts and materials must cost less than $750</td> <td>✓</td> </tr>
+  <tr> <td>At a print speed of 60mm/s, ringing must be less than a 3 on a
+ringing scale of 1-6 (1 is negligible, 6 is significant) and roughness
+must be less than a 3 on a roughness scale of 1-6 (1 is smooth, 6
+is rough)</td> <td>✓</td> </tr>
+  <tr> <td>Print tolerance of ±0.2mm on a 25mm cube</td> <td>✓</td> </tr>
+  <tr> <td>A minimum print volume of 275x275x325mm (2.475x107mm3)</td> <td>4% less than
+theoreticaldue to V3 of Hotend Carriage</td> </tr>
+  <tr> <td>Sturdy frame and design</td> <td>✓</td> </tr>
+  <tr> <td>Powerful heat bed capable of quickly heating to more than 110℃</td> <td>✓</td></tr>
+ 
+ <br>
+
+
+</table>
+
 <h3> BOM and Cost </h3>
 See BOM.csv for a list of the parts that need to be purchased. The total cost is around $700. However, your actual cost may vary depending on shipping, tax, etc. Note: the two rolls of PLA filament quoted are an estimate of how much plastic was used. You may find that you need more filament. Also, while you may be able to find cheaper alternatives to some of these parts, please be careful when economizing on very important parts such as the hotend. Some parts may need modification to work properly.
 
