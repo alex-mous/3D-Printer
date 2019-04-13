@@ -1,5 +1,7 @@
 Attribution-ShareAlike 4.0 International
 
+Note: the Marlin configuration files (Configuration.h, Configuration_adv.h, pins_RAMPS.h, ultralcd.cpp) are licensed differently. For those files, see the LICENSE in the Marlin Configuration directory.
+
 =======================================================================
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
