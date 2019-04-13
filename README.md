@@ -52,11 +52,13 @@ is rough)</td> <td>✓</td> </tr>
 theoretical due to V3 of Hotend Carriage</td> </tr>
   <tr> <td>Sturdy frame and design</td> <td>✓</td> </tr>
   <tr> <td>Powerful heat bed capable of quickly heating to more than 110℃</td> <td>✓</td></tr>
- 
- <br>
-
-
 </table>
+
+<h4> 
+```diff
++ Warning: this project involves AC wiring and temperatures in excess of 200&degC. Proceed only if you are sure that you know what you are doing!
+```
+</h4>
 
 <h3> BOM and Cost </h3>
 See BOM.csv for a list of the parts that need to be purchased. The total cost is around $700. However, your actual cost may vary depending on shipping, tax, etc. Note: the two rolls of PLA filament quoted are an estimate of how much plastic was used. You may find that you need more filament. Also, while you may be able to find cheaper alternatives to some of these parts, please be careful when economizing on very important parts such as the hotend. Some parts may need modification to work properly.
