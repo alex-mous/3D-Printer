@@ -48,8 +48,8 @@ ringing scale of 1-6 (1 is negligible, 6 is significant) and roughness
 must be less than a 3 on a roughness scale of 1-6 (1 is smooth, 6
 is rough)</td> <td>✓</td> </tr>
   <tr> <td>Print tolerance of ±0.2mm on a 25mm cube</td> <td>✓</td> </tr>
-  <tr> <td>A minimum print volume of 275x275x325mm (2.475x107mm3)</td> <td>4% less than
-theoreticaldue to V3 of Hotend Carriage</td> </tr>
+  <tr> <td>A minimum print volume of 275x275x325mm (2.475x10<sup>7</sup>mm<sup>3</sup>)</td> <td>4% less than
+theoretical due to V3 of Hotend Carriage</td> </tr>
   <tr> <td>Sturdy frame and design</td> <td>✓</td> </tr>
   <tr> <td>Powerful heat bed capable of quickly heating to more than 110℃</td> <td>✓</td></tr>
  
