@@ -62,7 +62,7 @@ Warning! This project involves AC wiring and temperatures in excess of 200&degC.
 See BOM.csv for a list of the parts that need to be purchased. The total cost is around $700. However, your actual cost may vary depending on shipping, tax, etc. Note: the two rolls of PLA filament quoted are an estimate of how much plastic was used. You may find that you need more filament. Also, while you may be able to find cheaper alternatives to some of these parts, please be careful when economizing on very important parts such as the hotend. Some parts may need modification to work properly.
 
 <h3> Tools </h3>
-A list of the tooling used is in Tooling.pdf. Please tell me if you find you need more tools so I can add those tools to the list.
+A list of the tooling required is in Tooling.pdf. Please tell me if you find you need more tools so I can add those tools to the list.
 
 <h3> 3D Printed Parts </h3>
 The STL files for the 3D printed parts are in the STL files folder. See Printed Parts.pdf for the amount of each part that needs to be printed. Note: some designs may need small modifications after printing such as enlarging holes. Some of these modifications are listed in the Printed Part.pdf file. Please notify me of any modifications made to the parts so that I can update the design files.
@@ -99,7 +99,7 @@ Line up the pins of the RAMPS 1.4 board with the sockets on the Arduino Mega (af
 Marlin firmware is used for this 3D printer(see <a href="https://marlinfw.org">marlinfw.org</a>). The Marlin Configuration folder stores the changed configuration files in Marlin. See MODIFICATIONS.txtfor how to install the configuration files and upload Marlin to the Arduino Mega.
 
 <h3> Software </h3>
-I recommend using Ultimaker Cura for slicing. Cura can be installed from <a href="https://www.ultimaker.com/en/products/ultimaker-cura-software">the Ultimaker website</a>. A sample profile is the main directory. Follow the instructions detailed at <a href="https://www.ultimaker.com/en/resources/20441-manage-profiles">the Ultimaker website</a> to load the profile. To perform one of the test prints: load the test cube from the STL files folder into Cura, slice the cube, and put the GCODE on an SD card. Insert the SD card into the 3D printers LCD sreen controller board and select the file from the menu.
+I recommend using Ultimaker Cura for slicing. Cura can be installed from <a href="https://www.ultimaker.com/en/products/ultimaker-cura-software">the Ultimaker website</a>. A sample profile is the main directory. Follow the instructions detailed on <a href="https://www.ultimaker.com/en/resources/20441-manage-profiles">this page on the Ultimaker website</a> to load the profile. To perform one of the test prints: load the test cube from the STL files folder into Cura, slice the cube, and put the GCODE on an SD card. Insert the SD card into the 3D printers LCD sreen controller board and select the file from the menu.
 
 <h3> License and Credits </h3>
 All work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International license, except for the Marlin configuration files. Note: the Marlin configuration files (Configuration.h, Configuration_adv.h, pins_RAMPS.h, ultralcd.cpp) are licensed differently because they are from Marlin (see <a href="https://marlinfw.org">marlinfw.org</a>). For those files, see the LICENSE in the Marlin Configuration directory. This design was inspired by Tech2C's Hypercube, but all of the parts were designed by me from scratch.
