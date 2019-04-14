@@ -82,9 +82,9 @@ Line up the pins of the RAMPS 1.4 board with the sockets on the Arduino Mega (af
 
 <h4> Switch wiring </h4>
 
-![Switch wiring back JPG](/Images/Wiring/Switch_Wiring.JPG)
+![Switch wiring back JPG](/Images/Wiring/Switch_Wiring.jpg)
 
-![Switch wiring front JPG](/Images/Wiring/Finished_Switch.JPG)
+![Switch wiring front JPG](/Images/Wiring/Switch_Finished.jpg)
 
 <h4> Starting Wiring </h4>
 
