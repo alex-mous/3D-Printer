@@ -74,7 +74,7 @@ The STL files for the 3D printed parts are in the STL files folder. See Printed 
 Line up the pins of the RAMPS 1.4 board with the sockets on the Arduino Mega (after the Arduino Mega is fully screwed down onto the IKEA Lack table). Press the RAMPS 1.4 board down until the pins are fully into the Arduino Mega.
 
 
-![alt logo](/schematic.png)
+![Wiring schematic](/Images/Schematic.svg)
 
 <h3> Firmware </h3>
 Marlin firmware is used for this 3D printer(see <a href="https://marlinfw.org">marlinfw.org</a>). The Marlin Configuration folder stores the changed configuration files in Marlin. See MODIFICATIONS.txtfor how to install the configuration files and upload Marlin to the Arduino Mega.
