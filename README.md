@@ -83,14 +83,14 @@ Line up the pins of the RAMPS 1.4 board with the sockets on the Arduino Mega (af
 <h4> Starting Wiring </h4>
 <a href="/Images/Wiring">
 
-![Starting wiring JPG](/Images/Wiring/Starting_Wiring.jpg)
+![Starting wiring JPG](/Images/Wiring/Starting_Wiring.JPG)
 
 </a>
 
 <h4> Finished Wiring </h4>
 <a href="/Images/Wiring">
 
-![Finished wiring JPG](/Images/Wiring/Finished_Wiring.jpg)
+![Finished wiring JPG](/Images/Wiring/Finished_Wiring.JPG)
 
 </a>
 
