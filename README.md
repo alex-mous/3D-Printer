@@ -59,7 +59,7 @@ Warning! This project involves AC wiring and temperatures in excess of 200&degC.
 </h3>
 
 <h3> BOM and Cost </h3>
-See BOM.csv for a list of the parts that need to be purchased. The total cost is around $700. However, your actual cost may vary depending on shipping, tax, etc. Note: the two rolls of PLA filament quoted are an estimate of how much plastic was used. You may find that you need more filament. Also, while you may be able to find cheaper alternatives to some of these parts, please be careful when economizing on very important parts such as the hotend. Some parts may need modification to work properly.
+See BOM.pdf for a list of the parts that need to be purchased. The total cost is around $725. However, your actual cost may vary depending on shipping, tax, etc. Note: the two rolls of PLA filament quoted are an estimate of how much plastic was used. You may find that you need more filament. Also, while you may be able to find cheaper alternatives to some of these parts, please be careful when economizing on very important parts such as the hotend. Some parts may need modification to work properly.
 
 <h3> Tools </h3>
 A list of the tooling required is in Tooling.pdf. Please tell me if you find you need more tools so I can add those tools to the list.
@@ -71,7 +71,7 @@ The STL files for the 3D printed parts are in the STL files folder. See Printed 
 
 
 <h3> Wiring </h3>
-Line up the pins of the RAMPS 1.4 board with the sockets on the Arduino Mega (after the Arduino Mega is fully screwed down onto the IKEA Lack table). Press the RAMPS 1.4 board down until the pins are fully into the Arduino Mega. Next, follow the wiring diagram below (this diagram is in SVG format and can therefore be scaled). Add 3D-printed wire clamps (see the STL files folder and Printed Parts.pdf), zip-ties and labels as necessary. Below the wiring diagram are some pictures of the wiring.
+Line up the pins of the RAMPS 1.4 board with the sockets on the Arduino Mega (after the Arduino Mega is fully screwed down onto the IKEA Lack table). Press the RAMPS 1.4 board down until the pins are fully into the Arduino Mega. Next, solder wires to the switch as shown below in the pictures. Follow the wiring diagram below (this diagram is in SVG format and can therefore be scaled) (Note: some wires/cables might need to be extended. You can also splice four wires into the multi-core cable instead of using seperate pieces of wire (see pictures below for an example)). Add 3D-printed wire clamps (see the STL files folder and Printed Parts.pdf), zip-ties and labels as necessary. Below the wiring diagram are some pictures of the wiring.
 
 <h4> Wiring Diagram </h4>
 <a href="/Images/Wiring/Wiring.svg">
@@ -80,19 +80,20 @@ Line up the pins of the RAMPS 1.4 board with the sockets on the Arduino Mega (af
 
 </a>
 
+<h4> Switch wiring </h4>
+
+![Switch wiring back JPG](/Images/Wiring/Switch_Wiring.JPG)
+
+![Switch wiring front JPG](/Images/Wiring/Finished_Switch.JPG)
+
 <h4> Starting Wiring </h4>
-<a href="/Images/Wiring">
 
 ![Starting wiring JPG](/Images/Wiring/Starting_Wiring.JPG)
 
-</a>
-
 <h4> Finished Wiring </h4>
-<a href="/Images/Wiring">
 
 ![Finished wiring JPG](/Images/Wiring/Finished_Wiring.JPG)
 
-</a>
 
 
 <h3> Firmware </h3>
