@@ -155,7 +155,7 @@ Line up the pins of the RAMPS 1.4 board with the sockets on the Arduino Mega (af
 
 <h4> Multi-core Cable spliced to Endstop wires </h4>
 
-<img alt="Splicing wires to cable" src="/Images/Wiring/Splice_wires.jpg"><img alt="Spliced wires to cable" src="/Images/Wiring/Spliced_wires.jpg">
+<img alt="Splicing wires to cable" src="/Images/Wiring/Splice_wires.jpg" align="top" width="350"><img alt="Spliced wires to cable" src="/Images/Wiring/Spliced_wires.jpg" align="top" width="350">
 
 <h4> Starting Wiring </h4>
 
