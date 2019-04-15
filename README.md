@@ -70,20 +70,18 @@ The STL files for the 3D printed parts are in the STL files folder. See Printed 
 <h3> Assembly </h3>
 <h4> Step 1: Aluminum Frame </h4>
 First, print some of the M6 spacers (see Printed Parts.pdf). Next, prepare an aluminum L-bracket as shown below with two T-slot nuts, two M6x20 screws and two spacers. Repeat this for 28 of the L-brackets.
+<img alt="Side of bracket" src="/Images/1.%20Frame/L-bracket.jpg" align="top" width="200"><img alt="Top of bracket" src="/Images/1.%20Frame/L-bracket-top.jpg" align="top" width="200">
 
-<img alt="Side of bracket" src="/Images/1.%20Frame/L-bracket.jpg" width="200"><img alt="Top of bracket" src="/Images/1.%20Frame/L-bracket-top.jpg" width="200">
+<br>
 
 Lay out four of the 470mm lengths of aluminum extrusion; this will create the bottom. Place an aluminum L-bracket at each intersection and start to tighten the screws. Use a square to make sure the frame is square. Repeat these steps for the top (using the remaining four 470mm extrusions). Next, attach the 440mm extrusions at the four corners of the bottom frame using two angle brackets. Use the square to check that the frame is still square. Finally, place the top on top of the 440mm extrusions and attach using the same method as the bottom. Tighten the screws fully while checking the entire frame for squareness. 
-
-<img alt="Partially assembled frame" src="/Images/1.%20Frame/Assembling_frame.jpg" width="200"><img alt="Three-way joint" src="/Images/1.%20Frame/Joint.jpg" width="200"><img alt="Assembled frame" src="/Images/1.%20Frame/Complete_frame.jpg" width="200">
+<img alt="Partially assembled frame" src="/Images/1.%20Frame/Assembling_frame.jpg" align="top" width="200"><img alt="Three-way joint" src="/Images/1.%20Frame/Joint.jpg" align="top" width="200"><img alt="Assembled frame" src="/Images/1.%20Frame/Complete_frame.jpg" align="top" width="200">
 
 <h3> Wiring </h3>
 Line up the pins of the RAMPS 1.4 board with the sockets on the Arduino Mega (after the Arduino Mega is fully screwed down onto the IKEA Lack table). Press the RAMPS 1.4 board down until the pins are fully into the Arduino Mega. Next, solder wires to the switch as shown below in the pictures. Follow the wiring diagram below (this diagram is in SVG format and can therefore be scaled) (Note: some wires/cables might need to be extended. You can also splice four wires into the multi-core cable instead of using seperate pieces of wire (see pictures below for an example)). Add 3D-printed wire clamps (see the STL files folder and Printed Parts.pdf), zip-ties and labels as necessary. Below the wiring diagram are some pictures of the wiring.
 
 <h4> Wiring Diagram </h4>
-
-![Wiring schematic SVG](/Images/Wiring/Wiring.svg)
-
+<img alt="Wiring schematic SVG" src="/Images/Wiring/Wiring.svg">
 
 <h4> Switch wiring </h4>
 
@@ -91,11 +89,11 @@ Line up the pins of the RAMPS 1.4 board with the sockets on the Arduino Mega (af
 
 <h4> Starting Wiring </h4>
 
-![Starting wiring JPG](/Images/Wiring/Starting_Wiring.JPG)
+<img alt="Starting wiring JPG" src="/Images/Wiring/Starting_Wiring.JPG">
 
 <h4> Finished Wiring </h4>
 
-![Finished wiring JPG](/Images/Wiring/Finished_Wiring.JPG)
+<img alt="Finished wiring JPG" src="/Images/Wiring/Finished_Wiring.JPG">
 
 
 
