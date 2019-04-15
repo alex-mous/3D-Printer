@@ -85,6 +85,14 @@ Print the files in the Parts for IKEA Lack tables folder in the STL files folder
 
 <img alt="Caster adaptor" src="/Images/2.%20IKEA%20Lack%20tables/Caster_adaptor.jpg" align="top" width="200"><img alt="Table mounting/strengthening bracket" src="/Images/2.%20IKEA%20Lack%20tables/Mounting_bracket.jpg" align="top" width="200"><img alt="Assembled Tables" src="/Images/2.%20IKEA%20Lack%20tables/Tables.jpg" align="top" width="200">
 
+PVC Pipes filament storage
+
+Acrylic panels
+
+Acrylic panels attach
+
+Electronics attach
+
 <h3> Wiring </h3>
 Line up the pins of the RAMPS 1.4 board with the sockets on the Arduino Mega (after the Arduino Mega is fully screwed down onto the IKEA Lack table). Press the RAMPS 1.4 board down until the pins are fully into the Arduino Mega. Next, solder wires to the switch as shown below in the pictures. Follow the wiring diagram below (this diagram is in SVG format and can therefore be scaled) (Note: some wires/cables might need to be extended. You can also splice four wires into the multi-core cable instead of using seperate pieces of wire (see pictures below for an example)). Add 3D-printed wire clamps (see the STL files folder and Printed Parts.pdf), zip-ties and labels as necessary. Below the wiring diagram are some pictures of the wiring.
 
