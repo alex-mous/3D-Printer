@@ -93,24 +93,77 @@ Acrylic panels attach
 
 Electronics attach
 
+Attach Printer table
+
+<h4> Step 3: Print Bed </h4>
+
+Create
+
+Install parts
+
+Bed supporting plate
+
+<h4> Step 4: Z axis </h4>
+
+Print parts
+
+Add 10mm rods
+
+Bearings to bed supporting plate
+
+Z leadscrew and nut + parts
+
+Endstop and adjustable screw (cover software routine)
+
+<h4> Step 5: Y axis </h4>
+
+Print parts
+
+Motor Mount
+
+Idler Bearing Mount
+
+12mm Rod Clamp type 1 and 2
+
+y endstop
+
+motors
+
+<h4> Step 6: X axis </h4>
+
+Print parts
+
+aluminum rods and bushings
+
+Hotend carriage
+
+XY Joiner
+
+GT2 Belts
+
+Hotend install and fan install
+
 <h3> Wiring </h3>
-Line up the pins of the RAMPS 1.4 board with the sockets on the Arduino Mega (after the Arduino Mega is fully screwed down onto the IKEA Lack table). Press the RAMPS 1.4 board down until the pins are fully into the Arduino Mega. Next, solder wires to the switch as shown below in the pictures. Follow the wiring diagram below (this diagram is in SVG format and can therefore be scaled) (Note: some wires/cables might need to be extended. You can also splice four wires into the multi-core cable instead of using seperate pieces of wire (see pictures below for an example)). Add 3D-printed wire clamps (see the STL files folder and Printed Parts.pdf), zip-ties and labels as necessary. Below the wiring diagram are some pictures of the wiring.
+Line up the pins of the RAMPS 1.4 board with the sockets on the Arduino Mega (after the Arduino Mega is fully screwed down onto the IKEA Lack table). Press the RAMPS 1.4 board down until the pins are fully into the Arduino Mega. Next, solder wires to the switch as shown below in the pictures. Follow the wiring diagram below (this diagram is in SVG format and can therefore be scaled) (Note: some wires/cables will need to be extended. You can splice four wires into multi-core cable listed in the BOM instead of using seperate pieces of wire (see pictures below for an example)). Add 3D-printed wire clamps (see the STL files folder and Printed Parts.pdf), zip-ties and labels as necessary. Below the wiring diagram are some pictures of the wiring.
 
 <h4> Wiring Diagram </h4>
 <img alt="Wiring schematic SVG" src="/Images/Wiring/Wiring.svg">
 
 <h4> Switch wiring </h4>
 
-<img alt="Switch wiring back JPG" src="/Images/Wiring/Switch_Wiring.jpg" width="200"><img alt="Switch wiring front JPG" src="/Images/Wiring/Switch_Finished.jpg" width="200">
+<img alt="Switch wiring back" src="/Images/Wiring/Switch_Wiring.jpg" width="200"><img alt="Switch wiring front JPG" src="/Images/Wiring/Switch_Finished.jpg" width="200">
+
+<h4> Multi-core Cable spliced to Endstop wires </h4>
+
+<img alt="Splicing wires to cable" src="/Images/Wiring/Splice_wires.jpg"><img alt="Spliced wires to cable" src="/Images/Wiring/Spliced_wires.jpg">
 
 <h4> Starting Wiring </h4>
 
-<img alt="Starting wiring JPG" src="/Images/Wiring/Starting_Wiring.JPG">
+<img alt="Starting wiring" src="/Images/Wiring/Starting_Wiring.JPG">
 
 <h4> Finished Wiring </h4>
 
-<img alt="Finished wiring JPG" src="/Images/Wiring/Finished_Wiring.JPG">
-
+<img alt="Finished wiring" src="/Images/Wiring/Finished_Wiring.JPG">
 
 
 <h3> Firmware </h3>
