@@ -81,7 +81,7 @@ Lay out four of the 470mm lengths of aluminum extrusion; this will create the bo
 
 <h4> Step 2: IKEA Lack Tables </h4>
 
-Print the files in the ... in the STL files folder. Attach the four type _ Mounting/Strengthening Brackets to the bottom of the lower table. Next, place the upper table on top of the lower table and use four of the type _ brackets to attach them together. Finally, attach the remaining four type _ brackets to the underside of the upper table.
+Print the files in the Parts for IKEA Lack tables folder in the STL files folder. Attach the four type 1 Mounting/Strengthening Brackets to the bottom of the lower table. Next, place the upper table on top of the lower table and use four of the type 2 brackets to attach them together. Finally, attach the remaining four type 2 brackets to the underside of the upper table.
 
 <img alt="Caster adaptor" src="/Images/2.%20IKEA%20Lack%20tables/Caster_adaptor.jpg" align="top" width="200"><img alt="Table mounting/strengthening bracket" src="/Images/2.%20IKEA%20Lack%20tables/Mounting_bracket.jpg" align="top" width="200"><img alt="Assembled Tables" src="/Images/2.%20IKEA%20Lack%20tables/Tables.jpg" align="top" width="200">
 
