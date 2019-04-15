@@ -68,17 +68,21 @@ A list of the tooling required is in Tooling.pdf. Please tell me if you find you
 The STL files for the 3D printed parts are in the STL files folder. See Printed Parts.pdf for the amount of each part that needs to be printed. Note: some designs may need small modifications after printing such as enlarging holes. Some of these modifications are listed in the Printed Part.pdf file. Please notify me of any modifications made to the parts so that I can update the design files.
 
 <h3> Assembly </h3>
+<h4> Step 1: Aluminum Frame </h4>
+First, print some of the M6 spacers (see Printed Parts.pdf). Next, prepare the L-bracket as shown below with two T-slot nuts and two spacers
+
+![L bracket JPG](/Images/1.%20Frame/L-bracket.JPG)
+
+<br>Lay out four of the 470mm lengths of aluminum extrusion; this will create the base.
 
 
 <h3> Wiring </h3>
 Line up the pins of the RAMPS 1.4 board with the sockets on the Arduino Mega (after the Arduino Mega is fully screwed down onto the IKEA Lack table). Press the RAMPS 1.4 board down until the pins are fully into the Arduino Mega. Next, solder wires to the switch as shown below in the pictures. Follow the wiring diagram below (this diagram is in SVG format and can therefore be scaled) (Note: some wires/cables might need to be extended. You can also splice four wires into the multi-core cable instead of using seperate pieces of wire (see pictures below for an example)). Add 3D-printed wire clamps (see the STL files folder and Printed Parts.pdf), zip-ties and labels as necessary. Below the wiring diagram are some pictures of the wiring.
 
 <h4> Wiring Diagram </h4>
-<a href="/Images/Wiring/Wiring.svg">
 
 ![Wiring schematic SVG](/Images/Wiring/Wiring.svg)
 
-</a>
 
 <h4> Switch wiring </h4>
 
