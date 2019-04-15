@@ -71,7 +71,7 @@ The STL files for the 3D printed parts are in the STL files folder. See Printed 
 <h4> Step 1: Aluminum Frame </h4>
 First, print some of the M6 spacers (see Printed Parts.pdf). Next, prepare the L-bracket as shown below with two T-slot nuts and two spacers
 
-![L bracket JPG](/Images/1.%20Frame/L-bracket.JPG)
+<img src="/Images/1.%20Frame/L-bracket.jpg" width="200"><img src="/Images/1.%20Frame/L-bracket-top.jpg" width="200">
 
 <br>Lay out four of the 470mm lengths of aluminum extrusion; this will create the base.
 
@@ -86,9 +86,7 @@ Line up the pins of the RAMPS 1.4 board with the sockets on the Arduino Mega (af
 
 <h4> Switch wiring </h4>
 
-![Switch wiring back JPG](/Images/Wiring/Switch_Wiring.jpg)
-
-![Switch wiring front JPG](/Images/Wiring/Switch_Finished.jpg)
+<img alt="Switch wiring back JPG" src="/Images/Wiring/Switch_Wiring.jpg" width="200"><img alt="Switch wiring front JPG" src="/Images/Wiring/Switch_Finished.jpg" width="200">
 
 <h4> Starting Wiring </h4>
 
