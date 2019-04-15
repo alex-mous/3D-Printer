@@ -81,11 +81,15 @@ Lay out four of the 470mm lengths of aluminum extrusion; this will create the bo
 
 <h4> Step 2: IKEA Lack Tables </h4>
 
-Print the files in the Parts for IKEA Lack tables folder in the STL files folder. Attach the four type 1 Mounting/Strengthening Brackets to the bottom of the lower table. Next, place the upper table on top of the lower table and use four of the type 2 brackets to attach them together. Finally, attach the remaining four type 2 brackets to the underside of the upper table.
+Print all of the files in the Parts for IKEA Lack tables folder in the STL files folder as directed in Printed Parts.pdf. Attach the four type 1 Mounting/Strengthening Brackets to the bottom of the lower table. Next, place the upper table on top of the lower table and use four of the type 2 brackets to attach them together. Finally, attach the remaining four type 2 brackets to the underside of the upper table.
 
 <img alt="Caster adaptor" src="/Images/2.%20IKEA%20Lack%20tables/Caster_adaptor.jpg" align="top" width="200"><img alt="Table mounting/strengthening bracket" src="/Images/2.%20IKEA%20Lack%20tables/Mounting_bracket.jpg" align="top" width="200"><img alt="Assembled Tables" src="/Images/2.%20IKEA%20Lack%20tables/Tables.jpg" align="top" width="200">
 
-PVC Pipes filament storage
+For the filament storage, two PVC pipes are clamped on the sides of the upper IKEA Lack table with PVC Pipe Clamps and the remaining two pipes are clamped perpendicular to the sides with PVC Pipes Joiners. To install the PVC Pipe Clamps, carefully measure and mark half-way between the top and the bottom of the upper table on all four table legs. Next, using the square, create a line that passes through the marks on the legs. Place the PVC Pipe Clamp on the leg and mark where the holes should go. Finally, drill the holes and screw the PVC Pipe Clamps on. Slide a PVC pipe through one of the PVC Pipe Clamp, two of thw PVC Pipes Joiners and finally through the another PVC Pipe Clamp.
+
+<img alt="PVC Pipe Clamps test fit onto PVC pipe" src="/Images/2.%20IKEA%20Lack%20tables/PVC_pipe_clamps.jpg" align="top" width="500">
+<img alt="PVC pipes joiner" src="/Images/2.%20IKEA%20Lack%20tables/PVC_pipe_joiner.jpg" align="top" width="200"><img alt="Mark the place where the PVC Pipe Clamps go" src="/Images/2.%20IKEA%20Lack%20tables/Marking_PVC_pipe_clamp_holes.jpg" align="top" width="200"><img alt="Fully installed PVC Pipes" src="/Images/2.%20IKEA%20Lack%20tables/PVC_pipes_installed.jpg" align="top" width="200">
+
 
 Acrylic panels
 
