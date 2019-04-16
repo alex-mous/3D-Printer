@@ -91,6 +91,8 @@ For the filament storage, two PVC pipes are clamped on the sides of the upper IK
 
 <img alt="PVC pipes joiner" src="/Images/2.%20IKEA%20Lack%20tables/PVC_pipe_joiner.jpg" align="top" width="175"><img alt="Mark the place where the PVC Pipe Clamps go" src="/Images/2.%20IKEA%20Lack%20tables/Marking_PVC_pipe_clamp_holes.jpg" align="top" width="200"><img alt="Fully installed PVC Pipes" src="/Images/2.%20IKEA%20Lack%20tables/PVC_pipes_installed.jpg" align="top" width="225">
 
+Next, the acrylic hinges need to be attached to two spacers each, drilled with two holes for the coarse thread screws, and attached to the acrylic door panels (the panels on the front and the back of the printer). Also, door knobs need to be attached to the door panels.
+
 
 Acrylic panels
 
