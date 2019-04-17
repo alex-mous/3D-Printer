@@ -91,10 +91,19 @@ For the filament storage, two PVC pipes are clamped on the sides of the upper IK
 
 <img alt="PVC pipes joiner" src="/Images/2.%20IKEA%20Lack%20tables/PVC_pipe_joiner.jpg" align="top" width="175"><img alt="Mark the place where the PVC Pipe Clamps go" src="/Images/2.%20IKEA%20Lack%20tables/Marking_PVC_pipe_clamp_holes.jpg" align="top" width="200"><img alt="Fully installed PVC Pipes" src="/Images/2.%20IKEA%20Lack%20tables/PVC_pipes_installed.jpg" align="top" width="225">
 
-Next, the acrylic hinges need to be attached to two spacers each, drilled with two holes for the coarse thread screws, and attached to the acrylic door panels (the panels on the front and the back of the printer). Also, door knobs need to be attached to the door panels.
+<h4> The next two steps involve using TAP Acrylic Cement, which contains a chemical that is suspected of causing cancer. Follow all precautions labelled on the can or use a different adhesive. </h4>
+Next, the acrylic hinges need to be attached to two spacers each, drilled with two holes for the coarse thread screws, and attached to the acrylic door panels (the panels on the front and the back of the printer). Also, door knobs need to be attached to the door panels. First, use a saw to cut six 10x25 mm pieces from the 10x10cm acrylic spacer panel. Next, place a spacer on one side of a hinge, making sure that the spacer does not interfere with the joint. Add a drop of acrylic cement to the crack between the hinge and the spacer (the acrylic cement should be automatically spread out inside the crack with capillary action). Repeat these steps for five more acrylic hinges (for a total of six hinges with spacers). Next, drill two holes in each hinge (I recommend stepping up the sizes of drill bits one by one).
 
+<img alt="Prepare tools needed" src="/Images/2.%20IKEA%20Lack%20tables/Prepare_tools_needed.jpg" align="top" width="375">
 
-Acrylic panels
+<img alt="Cutting out the 10x25mm spacers" src="/Images/2.%20IKEA%20Lack%20tables/Cutting_spacers.jpg" align="top" width="275"><img alt="Finished hinges with spacers attached and holes drilled" src="/Images/2.%20IKEA%20Lack%20tables/Finished_hinges.jpg" align="top" width="200">
+
+The finished hinges and door knobs can now be attached to the main door panels. First, mark out where the hinges and door knob are going to go on one panel. Space the hinges equidistant from each other on one side of the panel (the side of the hinge without the spacer should be on the panel, and the side with the spacer should be off the panel). As before, check that the hinges are placed far enough away from the edge of the panel so the edge does not interfere with the movement of the hinge. The knob can be placed halfway up the panel on the other side of the panel and around x cm in. Using the square to make sure the hinges and knob are aligned, apply acrylic cement as before. Repeat for the second panel.
+
+<img alt="Mark out where the hinges and knob should go on an acrylic panel" src="/Images/2.%20IKEA%20Lack%20tables/Marking_acrylic_panel.jpg" align="top" width="375">
+
+<img alt="Align the hinges on an acrylic panel" src="/Images/2.%20IKEA%20Lack%20tables/Align_hinges.jpg" align="top" width="250"><img alt="Finished acrylic panel" src="/Images/2.%20IKEA%20Lack%20tables/Finished_panel.jpg" align="top" width="150">
+
 
 Acrylic panels attach
 
@@ -158,7 +167,7 @@ Line up the pins of the RAMPS 1.4 board with the sockets on the Arduino Mega (af
 
 <h4> Switch wiring </h4>
 
-<img alt="Switch wiring back" src="/Images/Wiring/Switch_Wiring.jpg" width="200"><img alt="Switch wiring front JPG" src="/Images/Wiring/Switch_Finished.jpg" width="200">
+<img alt="Switch wiring back" src="/Images/Wiring/Switch_Wiring.jpg" align="top" width="200"><img alt="Switch wiring front JPG" src="/Images/Wiring/Switch_Finished.jpg" align="top" width="200">
 
 <h4> Multi-core Cable spliced to Endstop wires </h4>
 
