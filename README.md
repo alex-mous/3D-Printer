@@ -88,7 +88,10 @@ Print all of the files in the Parts for IKEA Lack tables folder in the STL files
 For the filament storage, two PVC pipes are clamped on the sides of the upper IKEA Lack table with PVC Pipe Clamps and the remaining two pipes are clamped perpendicular to the sides with PVC Pipes Joiners. To install the PVC Pipe Clamps, carefully measure and mark half-way between the top and the bottom of the upper table on all four table legs. Next, using the square, create a line that passes through the marks on the legs. Place the PVC Pipe Clamp on the leg and mark where the holes should go. Finally, drill the holes and screw the PVC Pipe Clamps on. Slide a PVC pipe through one of the PVC Pipe Clamp, two of thw PVC Pipes Joiners and finally through the another PVC Pipe Clamp.
 
 <img alt="PVC Pipe Clamps test fit onto PVC pipe" src="/Images/2.%20IKEA%20Lack%20tables/PVC_pipe_clamps.jpg" align="top" width="500">
-<img alt="PVC pipes joiner" src="/Images/2.%20IKEA%20Lack%20tables/PVC_pipe_joiner.jpg" align="top" width="200"><img alt="Mark the place where the PVC Pipe Clamps go" src="/Images/2.%20IKEA%20Lack%20tables/Marking_PVC_pipe_clamp_holes.jpg" align="top" width="200"><img alt="Fully installed PVC Pipes" src="/Images/2.%20IKEA%20Lack%20tables/PVC_pipes_installed.jpg" align="top" width="200">
+
+<img alt="PVC pipes joiner" src="/Images/2.%20IKEA%20Lack%20tables/PVC_pipe_joiner.jpg" align="top" width="175"><img alt="Mark the place where the PVC Pipe Clamps go" src="/Images/2.%20IKEA%20Lack%20tables/Marking_PVC_pipe_clamp_holes.jpg" align="top" width="200"><img alt="Fully installed PVC Pipes" src="/Images/2.%20IKEA%20Lack%20tables/PVC_pipes_installed.jpg" align="top" width="225">
+
+Next, the acrylic hinges need to be attached to two spacers each, drilled with two holes for the coarse thread screws, and attached to the acrylic door panels (the panels on the front and the back of the printer). Also, door knobs need to be attached to the door panels.
 
 
 Acrylic panels
