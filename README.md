@@ -102,8 +102,15 @@ The finished hinges and door knobs can now be attached to the main door panels. 
 
 <img alt="Mark out where the hinges and knob should go on an acrylic panel" src="/Images/2.%20IKEA%20Lack%20tables/Marking_acrylic_panel.jpg" align="top" width="375">
 
-<img alt="Align the hinges on an acrylic panel" src="/Images/2.%20IKEA%20Lack%20tables/Align_hinges.jpg" align="top" width="250"><img alt="Finished acrylic panel" src="/Images/2.%20IKEA%20Lack%20tables/Finished_panel.jpg" align="top" width="150">
+<img alt="Align the hinges on an acrylic panel" src="/Images/2.%20IKEA%20Lack%20tables/Align_hinges.jpg" align="top" width="350"><img alt="Finished acrylic panel" src="/Images/2.%20IKEA%20Lack%20tables/Finished_panel.jpg" align="top" width="200">
 
+Before attaching the acrylic panels to the IKEA Lack table, the seal strip should be applied. Peel back the plastic layer on the back of the strip to expose the adhesive. Apply the seal strip as shown in the picture below. (Cut the strip with a box-cutter or scissors.)
+
+<img alt="Seal strip installed" src="/Images/2.%20IKEA%20Lack%20tables/Seal_strip_installed.jpg" align="top" width="250">
+
+Holding a finished acrylic panel up to the front (or back) of the IKEA Lack table, mark out where the holes for the screws should go. Next, drill pilot holes. While holding the panel up, screw the screws in most of the way. (You may want to add a foam spacer to adjust the tension on the hinges from the seal strip.) Fine tune the depth the screws are screwed in to maximize the seal and minimize stress on the acrylic panel. Repeat for the second panel.
+
+<img alt="Drilling the holes for an acrylic panel" src="/Images/2.%20IKEA%20Lack%20tables/Drill_holes_panel.jpg" align="top" width="125"><img alt="Installed acrylic panel" src="/Images/2.%20IKEA%20Lack%20tables/Installed_panel.jpg" align="top" width="200">
 
 Acrylic panels attach
 
