@@ -81,9 +81,15 @@ Lay out four of the 470mm lengths of aluminum extrusion; this will create the bo
 
 <h4> Step 2: IKEA Lack Tables </h4>
 
-Print all of the files in the Parts for IKEA Lack tables folder in the STL files folder as directed in Printed Parts.pdf. Attach the four type 1 Mounting/Strengthening Brackets to the bottom of the lower table. Next, place the upper table on top of the lower table and use four of the type 2 brackets to attach them together. Finally, attach the remaining four type 2 brackets to the underside of the upper table.
+<h6> Note: drywall screws refers to the 1 1/2" screws unless otherwise noted. </h6>
+
+Print all of the files in the Parts for IKEA Lack tables folder in the STL files folder as directed in Printed Parts.pdf. Attach the four type 1 Mounting/Strengthening Brackets to the bottom of the lower table. Next, place the upper table on top of the lower table and use four of the type 2 brackets to attach them together. Finally, attach the remaining four type 2 brackets to the underside of the upper table. To attach the casters, first push the caster adaptor onto the table leg. Next screw in the two drywall screws on the side. Finally, place the caster on top of the adaptor and screw in four of the 2" drywall screws.
 
 <img alt="Caster adaptor" src="/Images/2.%20IKEA%20Lack%20tables/Caster_adaptor.jpg" align="top" width="200"><img alt="Table mounting/strengthening bracket" src="/Images/2.%20IKEA%20Lack%20tables/Mounting_bracket.jpg" align="top" width="200"><img alt="Assembled Tables" src="/Images/2.%20IKEA%20Lack%20tables/Tables.jpg" align="top" width="200">
+
+Next, attach the main electronics (power supply, SSR, and Arduino/RAMPS combination) to the underside of the top table. Place the electronics as shown below and screw down using drywall screws. (I will cover the wiring later. You may notice that the power wires are soldered to the RAMPS board. That is because the RAMPS board I recieved did not come with an input jack. If your RAMPS also does not come with an input jack, either find an input jack or modify the RAMPS board as I did.)
+
+<img alt="Electronics placement" src="/Images/2.%20IKEA%20Lack%20tables/Electronics_placement.jpg" align="top" width="300"><img alt="Power Supply" src="/Images/2.%20IKEA%20Lack%20tables/Power_supply.jpg" align="top" width="200">
 
 For the filament storage, two PVC pipes are clamped on the sides of the upper IKEA Lack table with PVC Pipe Clamps and the remaining two pipes are clamped perpendicular to the sides with PVC Pipes Joiners. To install the PVC Pipe Clamps, carefully measure and mark half-way between the top and the bottom of the upper table on all four table legs. Next, using the square, create a line that passes through the marks on the legs. Place the PVC Pipe Clamp on the leg and mark where the holes should go. Finally, drill the holes and screw the PVC Pipe Clamps on. Slide a PVC pipe through one of the PVC Pipe Clamp, two of thw PVC Pipes Joiners and finally through the another PVC Pipe Clamp.
 
@@ -110,13 +116,12 @@ Before attaching the acrylic panels to the IKEA Lack table, the seal strip shoul
 
 Holding a finished acrylic panel up to the front (or back) of the IKEA Lack table, mark out where the holes for the screws should go. Next, drill pilot holes. While holding the panel up, screw the screws in most of the way. (You may want to add a foam spacer to adjust the tension on the hinges from the seal strip.) Fine tune the depth the screws are screwed in to maximize the seal and minimize stress on the acrylic panel. Repeat for the second panel.
 
-<img alt="Drilling the holes for an acrylic panel" src="/Images/2.%20IKEA%20Lack%20tables/Drill_holes_panel.jpg" align="top" width="125"><img alt="Installed acrylic panel" src="/Images/2.%20IKEA%20Lack%20tables/Installed_panel.jpg" align="top" width="200">
+<img alt="Drilling the holes for an acrylic panel" src="/Images/2.%20IKEA%20Lack%20tables/Drill_holes_panel.jpg" align="top" width="60"><img alt="Installed acrylic panel" src="/Images/2.%20IKEA%20Lack%20tables/Installed_panel.jpg" align="top" width="300">
 
-Acrylic panels attach
+Now it is time to attach the toggle clamps and panel clamps to secure the acrylic panels. First print out the parts for the Acrylic Toggle Clamps and Acrylic Panel Clamps as directed in Printed Parts.pdf. The toggle clamps must be assembled before they are installed. Follow the steps demonstrated in the pictures to assemble the 10 total clamps. Install the toggle clamps as shown in the picture below by first marking out the locations with a pencil and the square, drilling pilot holes, and screwing in the screws (the edge of the clamp should be flush with the surface of the IKEA Lack table, but check for interference before drilling holes). The Acrylic Panel Clamps do not require assembly, but the installation is a bit trickier. Using the square, mark out where the panel clamps should go (see the picture below, and as before check for interference before installing)
 
-Electronics attach
 
-Attach Printer table
+Attach Printer to top table
 
 <h4> Step 3: Print Bed </h4>
 
