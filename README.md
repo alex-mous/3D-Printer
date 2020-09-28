@@ -122,55 +122,45 @@ Now it is time to attach the toggle clamps and panel clamps to secure the acryli
 
 <img alt="Layout for the Acrylic Panel Clamps" src="/Images/2.%20IKEA%20Lack%20tables/M3_set_screw_layout.JPG" align="top" width="60"><img alt="Installing set screw" src="/Images/2.%20IKEA%20Lack%20tables/Install_set_screw_panel_clamp.JPG" align="top" width="60"><img alt="Installed set screw with panel clamp" src="/Images/2.%20IKEA%20Lack%20tables/Panel_clamp_installed.JPG" align="top" width="60"><img alt="Finished" src="/Images/2.%20IKEA%20Lack%20tables/Acrylic_panel_clamps_done.JPG" align="top" width="60">
 
-Attach Printer to top table
+(to be added)
+
+- Attach Printer to top table
 
 <h4> Step 3: Print Bed </h4>
+(to be added)
 
-Create
-
-Install parts
-
-Bed supporting plate
+- Create
+- Install parts
+- Bed supporting plate
 
 <h4> Step 4: Z axis </h4>
+(to be added)
 
-Print parts
-
-Add 10mm rods
-
-Bearings to bed supporting plate
-
-Z leadscrew and nut + parts
-
-Endstop and adjustable screw (cover software routine)
+- Print parts
+- Add 10mm rods
+- Bearings to bed supporting plate
+- Z leadscrew and nut + parts
+- Endstop and adjustable screw (cover software routine)
 
 <h4> Step 5: Y axis </h4>
+(to be added)
 
-Print parts
-
-Motor Mount
-
-Idler Bearing Mount
-
-12mm Rod Clamp type 1 and 2
-
-y endstop
-
-motors
+- Print parts
+- Motor Mount
+- Idler Bearing Mount
+- 12mm Rod Clamp type 1 and 2
+- Y endstop
+- Motors
 
 <h4> Step 6: X axis </h4>
+(to be added)
 
-Print parts
-
-aluminum rods and bushings
-
-Hotend carriage
-
-XY Joiner
-
-GT2 Belts
-
-Hotend install and fan install
+- Print parts
+- aluminum rods and bushings
+- Hotend carriage
+- XY Joiner
+- GT2 Belts
+- Hotend install and fan install
 
 <h3> Wiring </h3>
 Line up the pins of the RAMPS 1.4 board with the sockets on the Arduino Mega (after the Arduino Mega is fully screwed down onto the IKEA Lack table). Press the RAMPS 1.4 board down until the pins are fully into the Arduino Mega. Next, solder wires to the switch as shown below in the pictures. Follow the wiring diagram below (this diagram is in SVG format and can therefore be scaled) (Note: some wires/cables will need to be extended. You can splice four wires into multi-core cable listed in the BOM instead of using seperate pieces of wire (see pictures below for an example)). Add 3D-printed wire clamps (see the STL files folder and Printed Parts.pdf), zip-ties and labels as necessary. Below the wiring diagram are some pictures of the wiring.
@@ -202,4 +192,4 @@ Marlin firmware is used for this 3D printer(see <a href="https://marlinfw.org">m
 I recommend using Ultimaker Cura for slicing. Cura can be installed from <a href="https://www.ultimaker.com/en/products/ultimaker-cura-software">the Ultimaker website</a>. A sample profile is the main directory. Follow the instructions detailed on <a href="https://www.ultimaker.com/en/resources/20441-manage-profiles">this page on the Ultimaker website</a> to load the profile. To perform one of the test prints: load the test cube from the STL files folder into Cura, slice the cube, and put the GCODE on an SD card. Insert the SD card into the 3D printers LCD sreen controller board and select the file from the menu.
 
 <h3> License and Credits </h3>
-All work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International license, except for the Marlin configuration files. Note: the Marlin configuration files (Configuration.h, Configuration_adv.h, pins_RAMPS.h, ultralcd.cpp) are licensed differently because they are from Marlin (see <a href="https://marlinfw.org">marlinfw.org</a>). For those files, see the LICENSE in the Marlin Configuration directory. This design was inspired by Tech2C's Hypercube, but all of the parts were designed by me from scratch.
+All work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International license, except for the Marlin configuration files. Note: the Marlin configuration files (Configuration.h, Configuration_adv.h, pins_RAMPS.h, ultralcd.cpp) are licensed differently because they are from Marlin (see <a href="https://marlinfw.org">marlinfw.org</a>). For those files, see the LICENSE in the Marlin Configuration directory. This design was inspired by Tech2C's Hypercube, but all of the parts and components, from major axis design and structure to motor and wiring placement, were designed by me from scratch.
